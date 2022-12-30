@@ -9,8 +9,6 @@
 </br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JulioJurema&show_icons=true&theme=github_dark)
-![linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=juliojurema&theme=github_dark)
-
 
 </br>
 </br>
@@ -24,4 +22,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+</br>
+</br>
 
+![linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=juliojurema&theme=github_dark)
