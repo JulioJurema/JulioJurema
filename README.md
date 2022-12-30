@@ -8,8 +8,8 @@
 </br>
 </br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JulioJurema&show_icons=true&theme=highcontrast)
-![linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=juliojurema&theme=blue-green)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JulioJurema&show_icons=true&theme=github_dark)
+![linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=juliojurema&theme=github_dark)
 
 
 </br>
