@@ -23,3 +23,4 @@
 </br>
 </br>
 
+<img src="https://github.com/JulioJurema/JulioJurema/blob/main/Codando.gif" height="180px" align="right"></img>
