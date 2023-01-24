@@ -13,12 +13,15 @@
 </br>
 </br>
 
-## My Skills
-</br>
-
-![Html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-<img src="https://github.com/JulioJurema/JulioJurema/blob/main/Codando.gif" height="180px" align="right"></img>
+<div>
+  
+  ## My Skills
+  </br>
+  
+  ![Html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
+  <img src="https://github.com/JulioJurema/JulioJurema/blob/main/Codando.gif" height="130px" align="right" alt="Gatinho codando"></img>
+  
+</div>
